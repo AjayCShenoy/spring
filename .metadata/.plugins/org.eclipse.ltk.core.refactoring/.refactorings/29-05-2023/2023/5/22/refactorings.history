@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Bean.xml&apos; to &apos;29-05-2023/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;29-05-2023&apos;&#x0D;&#x0A;- Destination element: &apos;29-05-2023/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;Bean.xml&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="src/main/java/com/ust/spring/_05_2023/Bean.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1685355319974" units="0" version="1.0"/>
+</session>

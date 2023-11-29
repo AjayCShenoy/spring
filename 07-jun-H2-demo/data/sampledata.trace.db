@@ -1,0 +1,4 @@
+2023-06-07 11:55:37 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO EMPLOYEE VALUES (1,""EEE"",""AJAY"",""CM);\000d\000aINSERT INTO EMPLOYEE VALUES (2,""ECE"",""ANAGHA"",""BIJU[*]"");"; SQL statement:
+INSERT INTO EMPLOYEE VALUES (1,"EEE","AJAY","CM);
+INSERT INTO EMPLOYEE VALUES (2,"ECE","ANAGHA","BIJU"); [42000-214]

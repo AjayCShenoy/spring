@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\248825\training\Spring\30-may-spring-boot-mvc"/>
+			<item value="C:\Users\248825\training\Spring\AutowiringExample"/>
+			<item value="C:\Users\248825\training\Spring\29-05-2023\src\main\java\Bean.xml"/>
+			<item value="C:\Users\248825\training\Spring\29-05-2023\src\main\java\com\ust\spring\_05_2023\App.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.ust.aop"/>
+		</list>
+		<list key="groupId">
+			<item value="com.ust.aop"/>
+		</list>
+		<list key="artifactId">
+			<item value="02-aop-annotation"/>
+			<item value="02-jun-aop-xml-1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="com.ust.spring"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="30-may-mvc"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\248825\Documents\ecom_project-jag\ecom-08-aug"/>
+			<item value="C:\Users\248825\training\Spring\21-july-actuator"/>
+			<item value="C:\Users\248825\training\Spring\20-july-springSecurityjwtnew"/>
+			<item value="C:\Users\248825\training\Spring\20-july-SpringSecurityjwt"/>
+			<item value="C:\Users\248825\training\Spring\20-july-SpringSecurity"/>
+			<item value="C:\Users\248825\training\Spring\19-jun-manyToMany"/>
+			<item value="C:\Users\248825\training\Spring\14-jun-rest-aws-demo"/>
+			<item value="C:\Users\248825\training\Spring\09-jun-mvc-validation-demo"/>
+			<item value="C:\Users\248825\training\Spring\08-eureka-customer-api"/>
+			<item value="C:\Users\248825\training\Spring\08-eureka-server"/>
+			<item value="C:\Users\248825\training\Spring\07-jun-postgres-demo"/>
+			<item value="C:\Users\248825\training\Spring\07-jun-mvc-1"/>
+			<item value="C:\Users\248825\training\Spring\07-jun-H2-demo"/>
+			<item value="C:\Users\248825\training\Spring\07-jun-feignClient-demo"/>
+			<item value="C:\Users\248825\training\Spring\06-jun-food-restapi"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

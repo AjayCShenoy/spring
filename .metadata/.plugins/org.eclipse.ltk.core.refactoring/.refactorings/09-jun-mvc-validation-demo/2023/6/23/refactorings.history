@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;09-jun-mvc-validation-demo/src/main/webapp/views/fligth.jsp&apos; to &apos;flight.jsp&apos;" description="Rename resource &apos;fligth.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/views/fligth.jsp" name="flight.jsp" stamp="1686291982107" updateReferences="true"/>
+</session>

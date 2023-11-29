@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns = "http://www.springframework.org/schema/beans"
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation = "http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+<bean id="author" class="com.ust.spring._05_2023.Author">
+<property name="firstname" value="Ajay"></property>
+<property name="lastname" value=" c m"></property>
+</bean>
+<bean id="book" class="com.ust.spring._05_2023.Book">
+<property name="isbn" value="123456789"></property>
+<property name="author" ref="author"></property>
+</bean>
+</beans>
